@@ -24,3 +24,5 @@ JSON	to obtain Data format from API.
 
 
 *OUTPUT* : 
+
+<img width="1615" height="766" alt="Image" src="https://github.com/user-attachments/assets/4f4d0b60-aada-4538-9f60-83c9b5d43f7e" />
