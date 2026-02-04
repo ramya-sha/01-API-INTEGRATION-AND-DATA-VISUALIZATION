@@ -13,7 +13,8 @@
 *MENTOR* : Dr. Anurag Shrivastava
 
 
-DECRIPTION OF THE TASK : I integrated a public weather API using Python and visualized real-time environmental data using Matplotlib
+DECRIPTION OF THE TASK : I integrated a public weather API using Python and visualized real-time environmental data using Matplotlib.
+
 Components I used:
 
 Python as the	Programming language.
