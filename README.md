@@ -10,7 +10,7 @@
 
 *DURATION* : 4 WEEKS
 
-*MENTOR* : Dr. Anurag Shrivastava
+*MENTOR* : Neela Santhosh Kumar
 
 
 DECRIPTION OF THE TASK : I integrated a public weather API using Python and visualized real-time environmental data using Matplotlib.
